@@ -1,9 +1,6 @@
 # 🎯 ART Status Prediction Analysis
 
 Welcome to the **ART Status Prediction Analysis** repository! This project involves exploratory data analysis, data cleaning, model fitting, prediction, accuracy evaluation, and interpretation.
-## Author
-The author is Christian
----
 
 ## 📚 Notebooks
 

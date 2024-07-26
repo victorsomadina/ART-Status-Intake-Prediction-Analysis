@@ -4,7 +4,7 @@ Welcome to the **ART Status Prediction Analysis** repository! This project invol
 
 ## 📚 Notebooks
 
-- 📊 **[Exploratory Data Analysis & Data Cleaning](https://github.com/ChristianAliyuda/ART-Status-Prediction-Analysis/blob/main/ART%20prediction-Data%20Exploration.ipynb)**: Dive into the data exploration and cleaning process.
+- 📊 **[Exploratory Data Analysis & Data Cleaning](https://github.com/victorsomadina/ART-Status-Intake-Prediction-Analysis/blob/main/ART%20prediction-Data%20Exploration.ipynb))**: Dive into the data exploration and cleaning process.
 - 🤖 **[Model Fitting, Prediction, Accuracy & Interpretation](https://github.com/ChristianAliyuda/ART-Status-Prediction-Analysis/blob/main/ART%20prediction%20-%20Model%20Building.ipynb)**: Explore the model building and evaluation process.
 
 ---

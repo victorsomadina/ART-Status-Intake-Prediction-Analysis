@@ -12,18 +12,21 @@ Welcome to the **ART Status Prediction Analysis** repository! This project invol
 ## 📈 Visualizations
 
 ### 🔗 Relationship Between Variables
-![Relationship Between Variables](https://github.com/ChristianAliyuda/ART-Status-Prediction-Analysis/assets/91130565/51580496-85d5-418b-9d3f-d7ebb57ba374)
+![image](https://github.com/user-attachments/assets/f12194eb-34b5-453a-bbf9-5c31fad6a222)
 
 ### 🎯 Understanding Distribution of Target Variable
-![Distribution of Target Variable](https://github.com/ChristianAliyuda/ART-Status-Prediction-Analysis/assets/91130565/ef1af810-92d8-4852-841d-76c767661470)
+![image](https://github.com/user-attachments/assets/520779b9-211b-4e8b-ad8f-b388d127d31e)
+
 
 ### 🌟 Understanding Feature Importance
-![Feature Importance](https://github.com/ChristianAliyuda/ART-Status-Prediction-Analysis/assets/91130565/c205d2c1-0ee2-4c05-991c-eb8ad3cb1e18)
+![image](https://github.com/user-attachments/assets/269fe777-5150-4a6a-93b5-fbf069672628)
+
 
 ---
 
 ## 📊 Best Model Prediction Accuracy and Confusion Matrix
-![Prediction Accuracy and Confusion Matrix](https://github.com/ChristianAliyuda/ART-Status-Prediction-Analysis/assets/91130565/90133765-74a4-40a7-b171-e744f3e4ca5e)
+![image](https://github.com/user-attachments/assets/8d372ddb-eb24-45e1-9986-601c0d23e88c)
+
 
 ---
 

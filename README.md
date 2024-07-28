@@ -64,4 +64,10 @@ Welcome to the **ART Status Prediction Analysis** repository! This project invol
 - **Recall**: 0.68
 
  🚀
+
+ ### A snapshot of the Web App Interface
+ ![image](https://github.com/user-attachments/assets/682adabd-6f60-4013-91b2-c96ad32eef2b)
+
+ -- Thanks for Reading 🚀
+
  

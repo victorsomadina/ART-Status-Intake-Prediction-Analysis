@@ -20,52 +20,11 @@ Welcome to the **ART Status Prediction Analysis** repository! This project invol
 
 ### 🌟 Understanding Feature Importance
 ![Image](Feature_Importance.png)
-
-
 ---
-
 ## 📊 Best Model Prediction Accuracy and Confusion Matrix
 ![Image](Model_Accuracy.png)
 
-
 ---
-
-## 📋 Interpretation for the Best Performing Model
-
-### 🟢 Class 0 (Majority Class) - Active
-- **True Positives**: 14,780
-- **False Positives**: 1
-- **False Negatives**: 4
-- **Precision**: 0.99
-- **Recall**: 1.00
-
-### 🟡 Class 1 - Death
-- **True Positives**: 67
-- **False Positives**: 23
-- **False Negatives**: 423
-- **Precision**: 0.29
-- **Recall**: 0.14
-
-### 🔴 Class 2 - Discontinued Care
-- **True Positives**: 453
-- **False Positives**: 21
-- **False Negatives**: 972
-- **Precision**: 0.52
-- **Recall**: 0.32
-
-### 🟣 Class 3 - LTFU - Lost to Follow Up 
-- **True Positives**: 4,425
-- **False Positives**: 22
-- **False Negatives**: 360
-- **Precision**: 0.76
-- **Recall**: 0.92
-
-### ⚫ Class 4 - Transferred Out
-- **True Positives**: 126
-- **False Positives**: 28
-- **False Negatives**: 487
-- **Precision**: 0.37
-- **Recall**: 0.21
 
  🚀
 

@@ -19,13 +19,13 @@ Welcome to the **ART Status Prediction Analysis** repository! This project invol
 
 
 ### 🌟 Understanding Feature Importance
-![image](https://github.com/user-attachments/assets/269fe777-5150-4a6a-93b5-fbf069672628)
+![Image](Feature_Importance.png)
 
 
 ---
 
 ## 📊 Best Model Prediction Accuracy and Confusion Matrix
-![image](https://github.com/user-attachments/assets/8d372ddb-eb24-45e1-9986-601c0d23e88c)
+![Image](Model_Accuracy.png)
 
 
 ---
